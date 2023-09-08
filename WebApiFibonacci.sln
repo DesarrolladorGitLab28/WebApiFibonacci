@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiFibonacci", "WebApiFibonacci.csproj", "{87787CCC-D02B-4295-9F55-432ACBF5D443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87787CCC-D02B-4295-9F55-432ACBF5D443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87787CCC-D02B-4295-9F55-432ACBF5D443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87787CCC-D02B-4295-9F55-432ACBF5D443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87787CCC-D02B-4295-9F55-432ACBF5D443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2C860E4-EE7A-4BF7-B7FF-E649BE2AA981}
+	EndGlobalSection
+EndGlobal

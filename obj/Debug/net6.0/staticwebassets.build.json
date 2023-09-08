@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YNamZXpSbSFZG3ZX3awEdBHVW9tY7GxMQI9dCtHydJ4=",
+  "Source": "WebApiFibonacci",
+  "BasePath": "_content/WebApiFibonacci",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
